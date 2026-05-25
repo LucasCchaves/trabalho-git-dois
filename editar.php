@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__ . '/../config/Produto.php';
+require_once 'Produto.php';
 
 $produto = new Produto();
 $erros   = [];
